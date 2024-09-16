@@ -1,0 +1,5 @@
+{
+  "name": "framework-arduino-api",
+  "description": "Hardware independent layer of Arduino core",
+  "version": "2024.06.17"
+}
